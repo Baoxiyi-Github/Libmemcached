@@ -1,0 +1,747 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADD_OP	memcached_storage.c	15;"	e	enum:__anon2	file:
+APPEND_OP	memcached_storage.c	17;"	e	enum:__anon2	file:
+CAS_OP	memcached_storage.c	18;"	e	enum:__anon2	file:
+Decode	md5.c	342;"	f	file:
+Encode	md5.c	323;"	f	file:
+F	md5.c	93;"	d	file:
+FF	md5.c	105;"	d	file:
+FNV_32_INIT	memcached_hash.c	7;"	v	file:
+FNV_32_PRIME	memcached_hash.c	8;"	v	file:
+FNV_64_INIT	memcached_hash.c	4;"	v	file:
+FNV_64_PRIME	memcached_hash.c	5;"	v	file:
+G	md5.c	94;"	d	file:
+GG	md5.c	110;"	d	file:
+H	md5.c	95;"	d	file:
+HAVE_DLFCN_H	libmemcached_config.h	11;"	d
+HAVE_INTTYPES_H	libmemcached_config.h	17;"	d
+HAVE_MEMORY_H	libmemcached_config.h	20;"	d
+HAVE_RCVTIMEO	libmemcached_config.h	23;"	d
+HAVE_SNDTIMEO	libmemcached_config.h	26;"	d
+HAVE_STDINT_H	libmemcached_config.h	29;"	d
+HAVE_STDLIB_H	libmemcached_config.h	32;"	d
+HAVE_STRINGS_H	libmemcached_config.h	35;"	d
+HAVE_STRING_H	libmemcached_config.h	38;"	d
+HAVE_SYS_STAT_H	libmemcached_config.h	41;"	d
+HAVE_SYS_TYPES_H	libmemcached_config.h	44;"	d
+HAVE_UNISTD_H	libmemcached_config.h	47;"	d
+HH	md5.c	115;"	d	file:
+HUGE_STRING_LEN	common.h	60;"	d
+I	md5.c	96;"	d	file:
+II	md5.c	120;"	d	file:
+LIBMEMCACHED_MEMCACHED_ADD_END	libmemcached_probes.h	23;"	d
+LIBMEMCACHED_MEMCACHED_ADD_END_ENABLED	libmemcached_probes.h	24;"	d
+LIBMEMCACHED_MEMCACHED_ADD_START	libmemcached_probes.h	25;"	d
+LIBMEMCACHED_MEMCACHED_ADD_START_ENABLED	libmemcached_probes.h	26;"	d
+LIBMEMCACHED_MEMCACHED_CONNECT_END	libmemcached_probes.h	27;"	d
+LIBMEMCACHED_MEMCACHED_CONNECT_END_ENABLED	libmemcached_probes.h	28;"	d
+LIBMEMCACHED_MEMCACHED_CONNECT_START	libmemcached_probes.h	29;"	d
+LIBMEMCACHED_MEMCACHED_CONNECT_START_ENABLED	libmemcached_probes.h	30;"	d
+LIBMEMCACHED_MEMCACHED_DECREMENT_END	libmemcached_probes.h	31;"	d
+LIBMEMCACHED_MEMCACHED_DECREMENT_END_ENABLED	libmemcached_probes.h	32;"	d
+LIBMEMCACHED_MEMCACHED_DECREMENT_START	libmemcached_probes.h	33;"	d
+LIBMEMCACHED_MEMCACHED_DECREMENT_START_ENABLED	libmemcached_probes.h	34;"	d
+LIBMEMCACHED_MEMCACHED_DELETE_END	libmemcached_probes.h	35;"	d
+LIBMEMCACHED_MEMCACHED_DELETE_END_ENABLED	libmemcached_probes.h	36;"	d
+LIBMEMCACHED_MEMCACHED_DELETE_START	libmemcached_probes.h	37;"	d
+LIBMEMCACHED_MEMCACHED_DELETE_START_ENABLED	libmemcached_probes.h	38;"	d
+LIBMEMCACHED_MEMCACHED_FLUSH_END	libmemcached_probes.h	39;"	d
+LIBMEMCACHED_MEMCACHED_FLUSH_END_ENABLED	libmemcached_probes.h	40;"	d
+LIBMEMCACHED_MEMCACHED_FLUSH_START	libmemcached_probes.h	41;"	d
+LIBMEMCACHED_MEMCACHED_FLUSH_START_ENABLED	libmemcached_probes.h	42;"	d
+LIBMEMCACHED_MEMCACHED_GET_END	libmemcached_probes.h	43;"	d
+LIBMEMCACHED_MEMCACHED_GET_END_ENABLED	libmemcached_probes.h	44;"	d
+LIBMEMCACHED_MEMCACHED_GET_START	libmemcached_probes.h	45;"	d
+LIBMEMCACHED_MEMCACHED_GET_START_ENABLED	libmemcached_probes.h	46;"	d
+LIBMEMCACHED_MEMCACHED_INCREMENT_END	libmemcached_probes.h	47;"	d
+LIBMEMCACHED_MEMCACHED_INCREMENT_END_ENABLED	libmemcached_probes.h	48;"	d
+LIBMEMCACHED_MEMCACHED_INCREMENT_START	libmemcached_probes.h	49;"	d
+LIBMEMCACHED_MEMCACHED_INCREMENT_START_ENABLED	libmemcached_probes.h	50;"	d
+LIBMEMCACHED_MEMCACHED_MGET_END	libmemcached_probes.h	51;"	d
+LIBMEMCACHED_MEMCACHED_MGET_END_ENABLED	libmemcached_probes.h	52;"	d
+LIBMEMCACHED_MEMCACHED_MGET_START	libmemcached_probes.h	53;"	d
+LIBMEMCACHED_MEMCACHED_MGET_START_ENABLED	libmemcached_probes.h	54;"	d
+LIBMEMCACHED_MEMCACHED_REPLACE_END	libmemcached_probes.h	55;"	d
+LIBMEMCACHED_MEMCACHED_REPLACE_END_ENABLED	libmemcached_probes.h	56;"	d
+LIBMEMCACHED_MEMCACHED_REPLACE_START	libmemcached_probes.h	57;"	d
+LIBMEMCACHED_MEMCACHED_REPLACE_START_ENABLED	libmemcached_probes.h	58;"	d
+LIBMEMCACHED_MEMCACHED_SERVER_ADD_END	libmemcached_probes.h	59;"	d
+LIBMEMCACHED_MEMCACHED_SERVER_ADD_END_ENABLED	libmemcached_probes.h	60;"	d
+LIBMEMCACHED_MEMCACHED_SERVER_ADD_START	libmemcached_probes.h	61;"	d
+LIBMEMCACHED_MEMCACHED_SERVER_ADD_START_ENABLED	libmemcached_probes.h	62;"	d
+LIBMEMCACHED_MEMCACHED_SET_END	libmemcached_probes.h	63;"	d
+LIBMEMCACHED_MEMCACHED_SET_END_ENABLED	libmemcached_probes.h	64;"	d
+LIBMEMCACHED_MEMCACHED_SET_START	libmemcached_probes.h	65;"	d
+LIBMEMCACHED_MEMCACHED_SET_START_ENABLED	libmemcached_probes.h	66;"	d
+LIBMEMCACHED_PROBES_H	libmemcached_probes.h	8;"	d
+LIBMEMCACHED_VERSION_STRING	memcached.h	45;"	d
+MD5Final	md5.c	200;"	f	file:
+MD5Init	md5.c	142;"	f	file:
+MD5Transform	md5.c	229;"	f	file:
+MD5Update	md5.c	158;"	f	file:
+MD5_CTX	md5.c	49;"	t	typeref:struct:__anon30	file:
+MEMCACHED_BAD_KEY_PROVIDED	memcached_constants.h	63;"	e	enum:__anon31
+MEMCACHED_BEHAVIOR_BINARY_PROTOCOL	memcached_constants.h	93;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_BUFFER_REQUESTS	memcached_constants.h	85;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_CACHE_LOOKUPS	memcached_constants.h	81;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_CONNECT_TIMEOUT	memcached_constants.h	89;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_DISTRIBUTION	memcached_constants.h	84;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_HASH	memcached_constants.h	77;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_HASH_WITH_PREFIX_KEY	memcached_constants.h	99;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_IO_BYTES_WATERMARK	memcached_constants.h	98;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_IO_MSG_WATERMARK	memcached_constants.h	97;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_KETAMA	memcached_constants.h	78;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_KETAMA_HASH	memcached_constants.h	92;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_KETAMA_WEIGHTED	memcached_constants.h	91;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_NOREPLY	memcached_constants.h	100;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_NO_BLOCK	memcached_constants.h	75;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_POLL_TIMEOUT	memcached_constants.h	83;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_RCV_TIMEOUT	memcached_constants.h	95;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_RETRY_TIMEOUT	memcached_constants.h	90;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_SERVER_FAILURE_LIMIT	memcached_constants.h	96;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_SND_TIMEOUT	memcached_constants.h	94;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_SOCKET_RECV_SIZE	memcached_constants.h	80;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_SOCKET_SEND_SIZE	memcached_constants.h	79;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_SORT_HOSTS	memcached_constants.h	87;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_SUPPORT_CAS	memcached_constants.h	82;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_TCP_NODELAY	memcached_constants.h	76;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_USER_DATA	memcached_constants.h	86;"	e	enum:__anon33
+MEMCACHED_BEHAVIOR_VERIFY_KEY	memcached_constants.h	88;"	e	enum:__anon33
+MEMCACHED_BINARY	libmemcached_config.h	50;"	d
+MEMCACHED_BLOCK_SIZE	common.h	57;"	d
+MEMCACHED_BUFFERED	memcached_constants.h	62;"	e	enum:__anon31
+MEMCACHED_CALLBACK_CLEANUP_FUNCTION	memcached_constants.h	106;"	e	enum:__anon34
+MEMCACHED_CALLBACK_CLONE_FUNCTION	memcached_constants.h	107;"	e	enum:__anon34
+MEMCACHED_CALLBACK_DELETE_TRIGGER	memcached_constants.h	112;"	e	enum:__anon34
+MEMCACHED_CALLBACK_FREE_FUNCTION	memcached_constants.h	110;"	e	enum:__anon34
+MEMCACHED_CALLBACK_GET_FAILURE	memcached_constants.h	111;"	e	enum:__anon34
+MEMCACHED_CALLBACK_MALLOC_FUNCTION	memcached_constants.h	108;"	e	enum:__anon34
+MEMCACHED_CALLBACK_PREFIX_KEY	memcached_constants.h	104;"	e	enum:__anon34
+MEMCACHED_CALLBACK_REALLOC_FUNCTION	memcached_constants.h	109;"	e	enum:__anon34
+MEMCACHED_CALLBACK_USER_DATA	memcached_constants.h	105;"	e	enum:__anon34
+MEMCACHED_CLIENT_ERROR	memcached_constants.h	40;"	e	enum:__anon31
+MEMCACHED_CONNECTION_BIND_FAILURE	memcached_constants.h	35;"	e	enum:__anon31
+MEMCACHED_CONNECTION_FAILURE	memcached_constants.h	34;"	e	enum:__anon31
+MEMCACHED_CONNECTION_SOCKET_CREATE_FAILURE	memcached_constants.h	42;"	e	enum:__anon31
+MEMCACHED_CONNECTION_TCP	memcached_constants.h	130;"	e	enum:__anon36
+MEMCACHED_CONNECTION_UDP	memcached_constants.h	131;"	e	enum:__anon36
+MEMCACHED_CONNECTION_UNIX_SOCKET	memcached_constants.h	132;"	e	enum:__anon36
+MEMCACHED_CONNECTION_UNKNOWN	memcached_constants.h	129;"	e	enum:__anon36
+MEMCACHED_CONTINUUM_ADDITION	memcached_constants.h	27;"	d
+MEMCACHED_CONTINUUM_SIZE	memcached_constants.h	24;"	d
+MEMCACHED_DATA_DOES_NOT_EXIST	memcached_constants.h	44;"	e	enum:__anon31
+MEMCACHED_DATA_EXISTS	memcached_constants.h	43;"	e	enum:__anon31
+MEMCACHED_DEFAULT_COMMAND_SIZE	common.h	58;"	d
+MEMCACHED_DEFAULT_PORT	memcached_constants.h	17;"	d
+MEMCACHED_DEFAULT_TIMEOUT	memcached_constants.h	26;"	d
+MEMCACHED_DELETED	memcached_constants.h	53;"	e	enum:__anon31
+MEMCACHED_DISTRIBUTION_CONSISTENT	memcached_constants.h	69;"	e	enum:__anon32
+MEMCACHED_DISTRIBUTION_CONSISTENT_KETAMA	memcached_constants.h	70;"	e	enum:__anon32
+MEMCACHED_DISTRIBUTION_MODULA	memcached_constants.h	68;"	e	enum:__anon32
+MEMCACHED_DISTRIBUTION_RANDOM	memcached_constants.h	71;"	e	enum:__anon32
+MEMCACHED_END	memcached_constants.h	52;"	e	enum:__anon31
+MEMCACHED_ERRNO	memcached_constants.h	56;"	e	enum:__anon31
+MEMCACHED_FAILURE	memcached_constants.h	32;"	e	enum:__anon31
+MEMCACHED_FAIL_UNIX_SOCKET	memcached_constants.h	57;"	e	enum:__anon31
+MEMCACHED_FETCH_NOTFINISHED	memcached_constants.h	60;"	e	enum:__anon31
+MEMCACHED_HASH_CRC	memcached_constants.h	118;"	e	enum:__anon35
+MEMCACHED_HASH_DEFAULT	memcached_constants.h	116;"	e	enum:__anon35
+MEMCACHED_HASH_FNV1A_32	memcached_constants.h	122;"	e	enum:__anon35
+MEMCACHED_HASH_FNV1A_64	memcached_constants.h	120;"	e	enum:__anon35
+MEMCACHED_HASH_FNV1_32	memcached_constants.h	121;"	e	enum:__anon35
+MEMCACHED_HASH_FNV1_64	memcached_constants.h	119;"	e	enum:__anon35
+MEMCACHED_HASH_HSIEH	memcached_constants.h	123;"	e	enum:__anon35
+MEMCACHED_HASH_JENKINS	memcached_constants.h	125;"	e	enum:__anon35
+MEMCACHED_HASH_MD5	memcached_constants.h	117;"	e	enum:__anon35
+MEMCACHED_HASH_MURMUR	memcached_constants.h	124;"	e	enum:__anon35
+MEMCACHED_HOST_LOOKUP_FAILURE	memcached_constants.h	33;"	e	enum:__anon31
+MEMCACHED_MAXIMUM_RETURN	memcached_constants.h	64;"	e	enum:__anon31
+MEMCACHED_MAX_BUFFER	memcached_constants.h	19;"	d
+MEMCACHED_MAX_HOST_LENGTH	memcached_constants.h	20;"	d
+MEMCACHED_MAX_HOST_SORT_LENGTH	memcached_constants.h	21;"	d
+MEMCACHED_MAX_KEY	memcached_constants.h	18;"	d
+MEMCACHED_MEMORY_ALLOCATION_FAILURE	memcached_constants.h	48;"	e	enum:__anon31
+MEMCACHED_NOTFOUND	memcached_constants.h	47;"	e	enum:__anon31
+MEMCACHED_NOTSTORED	memcached_constants.h	45;"	e	enum:__anon31
+MEMCACHED_NOT_SUPPORTED	memcached_constants.h	58;"	e	enum:__anon31
+MEMCACHED_NO_KEY_PROVIDED	memcached_constants.h	59;"	e	enum:__anon31
+MEMCACHED_NO_SERVERS	memcached_constants.h	51;"	e	enum:__anon31
+MEMCACHED_PARTIAL_READ	memcached_constants.h	49;"	e	enum:__anon31
+MEMCACHED_POINTS_PER_SERVER	memcached_constants.h	22;"	d
+MEMCACHED_POINTS_PER_SERVER_KETAMA	memcached_constants.h	23;"	d
+MEMCACHED_PREFIX_KEY_MAX_SIZE	memcached_constants.h	28;"	d
+MEMCACHED_PROTOCOL_ERROR	memcached_constants.h	39;"	e	enum:__anon31
+MEMCACHED_READ_FAILURE	memcached_constants.h	37;"	e	enum:__anon31
+MEMCACHED_SERVER_ERROR	memcached_constants.h	41;"	e	enum:__anon31
+MEMCACHED_SOME_ERRORS	memcached_constants.h	50;"	e	enum:__anon31
+MEMCACHED_STAT	memcached_constants.h	55;"	e	enum:__anon31
+MEMCACHED_STORED	memcached_constants.h	46;"	e	enum:__anon31
+MEMCACHED_STRIDE	memcached_constants.h	25;"	d
+MEMCACHED_SUCCESS	memcached_constants.h	31;"	e	enum:__anon31
+MEMCACHED_TIMEOUT	memcached_constants.h	61;"	e	enum:__anon31
+MEMCACHED_UNKNOWN_READ_FAILURE	memcached_constants.h	38;"	e	enum:__anon31
+MEMCACHED_VALUE	memcached_constants.h	54;"	e	enum:__anon31
+MEMCACHED_VERSION_STRING_LENGTH	memcached.h	37;"	d
+MEMCACHED_WRITE_FAILURE	memcached_constants.h	36;"	e	enum:__anon31
+MEM_BINARY_PROTOCOL	common.h	77;"	e	enum:__anon37
+MEM_BUFFER_REQUESTS	common.h	72;"	e	enum:__anon37
+MEM_HASH_WITH_PREFIX_KEY	common.h	78;"	e	enum:__anon37
+MEM_KETAMA_WEIGHTED	common.h	76;"	e	enum:__anon37
+MEM_NOREPLY	common.h	79;"	e	enum:__anon37
+MEM_NO_BLOCK	common.h	64;"	e	enum:__anon37
+MEM_READ	memcached_io.c	11;"	e	enum:__anon1	file:
+MEM_REUSE_MEMORY	common.h	66;"	e	enum:__anon37
+MEM_SUPPORT_CAS	common.h	71;"	e	enum:__anon37
+MEM_TCP_NODELAY	common.h	65;"	e	enum:__anon37
+MEM_USE_CACHE_LOOKUPS	common.h	70;"	e	enum:__anon37
+MEM_USE_CRC	common.h	69;"	e	enum:__anon37
+MEM_USE_MD5	common.h	67;"	e	enum:__anon37
+MEM_USE_SORT_HOSTS	common.h	73;"	e	enum:__anon37
+MEM_VERIFY_KEY	common.h	74;"	e	enum:__anon37
+MEM_WRITE	memcached_io.c	12;"	e	enum:__anon1	file:
+Memcached	memcached.hh	16;"	f	class:Memcached
+Memcached	memcached.hh	21;"	f	class:Memcached
+Memcached	memcached.hh	9;"	c
+PACKAGE_BUGREPORT	libmemcached_config.h	53;"	d
+PACKAGE_NAME	libmemcached_config.h	56;"	d
+PACKAGE_STRING	libmemcached_config.h	59;"	d
+PACKAGE_TARNAME	libmemcached_config.h	62;"	d
+PACKAGE_VERSION	libmemcached_config.h	65;"	d
+PADDING	md5.c	85;"	v	file:
+POINTER	md5.c	37;"	t	file:
+PREPEND_OP	memcached_storage.c	16;"	e	enum:__anon2	file:
+PROTOCOL_BINARY_CMD_ADD	memcached/protocol_binary.h	82;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_ADDQ	memcached/protocol_binary.h	98;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_APPEND	memcached/protocol_binary.h	94;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_APPENDQ	memcached/protocol_binary.h	105;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_DECREMENT	memcached/protocol_binary.h	86;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_DECREMENTQ	memcached/protocol_binary.h	102;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_DELETE	memcached/protocol_binary.h	84;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_DELETEQ	memcached/protocol_binary.h	100;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_FLUSH	memcached/protocol_binary.h	88;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_FLUSHQ	memcached/protocol_binary.h	104;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_GET	memcached/protocol_binary.h	80;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_GETK	memcached/protocol_binary.h	92;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_GETKQ	memcached/protocol_binary.h	93;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_GETQ	memcached/protocol_binary.h	89;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_INCREMENT	memcached/protocol_binary.h	85;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_INCREMENTQ	memcached/protocol_binary.h	101;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_NOOP	memcached/protocol_binary.h	90;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_PREPEND	memcached/protocol_binary.h	95;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_PREPENDQ	memcached/protocol_binary.h	106;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_QUIT	memcached/protocol_binary.h	87;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_QUITQ	memcached/protocol_binary.h	103;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_REPLACE	memcached/protocol_binary.h	83;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_REPLACEQ	memcached/protocol_binary.h	99;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_SET	memcached/protocol_binary.h	81;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_SETQ	memcached/protocol_binary.h	97;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_STAT	memcached/protocol_binary.h	96;"	e	enum:__anon5
+PROTOCOL_BINARY_CMD_VERSION	memcached/protocol_binary.h	91;"	e	enum:__anon5
+PROTOCOL_BINARY_H	memcached/protocol_binary.h	36;"	d
+PROTOCOL_BINARY_RAW_BYTES	memcached/protocol_binary.h	114;"	e	enum:__anon6
+PROTOCOL_BINARY_REQ	memcached/protocol_binary.h	56;"	e	enum:__anon3
+PROTOCOL_BINARY_RES	memcached/protocol_binary.h	57;"	e	enum:__anon3
+PROTOCOL_BINARY_RESPONSE_E2BIG	memcached/protocol_binary.h	68;"	e	enum:__anon4
+PROTOCOL_BINARY_RESPONSE_EINVAL	memcached/protocol_binary.h	69;"	e	enum:__anon4
+PROTOCOL_BINARY_RESPONSE_ENOMEM	memcached/protocol_binary.h	72;"	e	enum:__anon4
+PROTOCOL_BINARY_RESPONSE_KEY_EEXISTS	memcached/protocol_binary.h	67;"	e	enum:__anon4
+PROTOCOL_BINARY_RESPONSE_KEY_ENOENT	memcached/protocol_binary.h	66;"	e	enum:__anon4
+PROTOCOL_BINARY_RESPONSE_NOT_STORED	memcached/protocol_binary.h	70;"	e	enum:__anon4
+PROTOCOL_BINARY_RESPONSE_SUCCESS	memcached/protocol_binary.h	65;"	e	enum:__anon4
+PROTOCOL_BINARY_RESPONSE_UNKNOWN_COMMAND	memcached/protocol_binary.h	71;"	e	enum:__anon4
+REPLACE_OP	memcached_storage.c	14;"	e	enum:__anon2	file:
+ROTATE_LEFT	md5.c	100;"	d	file:
+S11	md5.c	60;"	d	file:
+S12	md5.c	61;"	d	file:
+S13	md5.c	62;"	d	file:
+S14	md5.c	63;"	d	file:
+S21	md5.c	64;"	d	file:
+S22	md5.c	65;"	d	file:
+S23	md5.c	66;"	d	file:
+S24	md5.c	67;"	d	file:
+S31	md5.c	68;"	d	file:
+S32	md5.c	69;"	d	file:
+S33	md5.c	70;"	d	file:
+S34	md5.c	71;"	d	file:
+S41	md5.c	72;"	d	file:
+S42	md5.c	73;"	d	file:
+S43	md5.c	74;"	d	file:
+S44	md5.c	75;"	d	file:
+SET_OP	memcached_storage.c	13;"	e	enum:__anon2	file:
+SMALL_STRING_LEN	common.h	59;"	d
+STDC_HEADERS	libmemcached_config.h	68;"	d
+TIME_WITH_SYS_TIME	libmemcached_config.h	71;"	d
+UINT4	md5.c	41;"	t	file:
+WATCHPOINT	memcached_watchpoint.h	20;"	d
+WATCHPOINT	memcached_watchpoint.h	30;"	d
+WATCHPOINT_ASSERT	memcached_watchpoint.h	28;"	d
+WATCHPOINT_ASSERT	memcached_watchpoint.h	37;"	d
+WATCHPOINT_ASSERT_PRINT	memcached_watchpoint.h	27;"	d
+WATCHPOINT_ASSERT_PRINT	memcached_watchpoint.h	36;"	d
+WATCHPOINT_ERRNO	memcached_watchpoint.h	26;"	d
+WATCHPOINT_ERRNO	memcached_watchpoint.h	35;"	d
+WATCHPOINT_ERROR	memcached_watchpoint.h	21;"	d
+WATCHPOINT_ERROR	memcached_watchpoint.h	31;"	d
+WATCHPOINT_IFERROR	memcached_watchpoint.h	22;"	d
+WATCHPOINT_IFERROR	memcached_watchpoint.h	32;"	d
+WATCHPOINT_NUMBER	memcached_watchpoint.h	25;"	d
+WATCHPOINT_NUMBER	memcached_watchpoint.h	34;"	d
+WATCHPOINT_STRING	memcached_watchpoint.h	23;"	d
+WATCHPOINT_STRING	memcached_watchpoint.h	33;"	d
+WATCHPOINT_STRING_LENGTH	memcached_watchpoint.h	24;"	d
+__COMMON_H__	common.h	6;"	d
+__MEMCACHED_CONSTANTS_H__	memcached_constants.h	10;"	d
+__MEMCACHED_GET_H__	memcached_get.h	10;"	d
+__MEMCACHED_H__	memcached.h	11;"	d
+__MEMCACHED_IO_H__	memcached_io.h	5;"	d
+__MEMCACHED_RESULT_H__	memcached_result.h	10;"	d
+__MEMCACHED_SERVER_H__	memcached_server.h	10;"	d
+__MEMCACHED_STORAGE_H__	memcached_storage.h	10;"	d
+__MEMCACHED_STRING_H__	memcached_string.h	10;"	d
+__MEMCACHED_TYPES_H__	memcached_types.h	10;"	d
+__MEMCACHED_WATCHPOINT_H__	memcached_watchpoint.h	10;"	d
+add	memcached.hh	90;"	f	class:Memcached
+add_by_key	memcached.hh	96;"	f	class:Memcached
+address_info	memcached_server.h	30;"	m	struct:memcached_server_st	typeref:struct:memcached_server_st::addrinfo
+append	memcached.hh	139;"	f	class:Memcached
+append_by_key	memcached.hh	147;"	f	class:Memcached
+ascii_stats_fetch	memcached_stats.c	281;"	f	file:
+average_item_size	memcached.h	50;"	m	struct:memcached_analysis_st
+binary_delete	memcached_delete.c	87;"	f	file:
+binary_incr_decr	memcached_auto.c	62;"	f	file:
+binary_mget_by_key	memcached_get.c	247;"	f	file:
+binary_read_one_response	memcached_response.c	174;"	f	file:
+binary_stats_fetch	memcached_stats.c	214;"	f	file:
+block_size	memcached_string.h	21;"	m	struct:memcached_string_st
+body	memcached/protocol_binary.h	194;"	m	struct:__anon15::__anon16	typeref:struct:__anon15::__anon16::__anon17
+body	memcached/protocol_binary.h	226;"	m	struct:__anon18::__anon19	typeref:struct:__anon18::__anon19::__anon20
+body	memcached/protocol_binary.h	247;"	m	struct:__anon21::__anon22	typeref:struct:__anon21::__anon22::__anon23
+body	memcached/protocol_binary.h	286;"	m	struct:__anon24::__anon25	typeref:struct:__anon24::__anon25::__anon26
+body	memcached/protocol_binary.h	302;"	m	struct:__anon27::__anon28	typeref:struct:__anon27::__anon28::__anon29
+bodylen	memcached/protocol_binary.h	129;"	m	struct:__anon7::__anon8
+bodylen	memcached/protocol_binary.h	148;"	m	struct:__anon9::__anon10
+buffer	md5.c	48;"	m	struct:__anon30	file:
+bytes	memcached.h	74;"	m	struct:memcached_stat_st
+bytes	memcached/protocol_binary.h	133;"	m	union:__anon7
+bytes	memcached/protocol_binary.h	152;"	m	union:__anon9
+bytes	memcached/protocol_binary.h	162;"	m	union:__anon11
+bytes	memcached/protocol_binary.h	172;"	m	union:__anon13
+bytes	memcached/protocol_binary.h	196;"	m	union:__anon15
+bytes	memcached/protocol_binary.h	228;"	m	union:__anon18
+bytes	memcached/protocol_binary.h	249;"	m	union:__anon21
+bytes	memcached/protocol_binary.h	288;"	m	union:__anon24
+bytes	memcached/protocol_binary.h	304;"	m	union:__anon27
+bytes_read	memcached.h	80;"	m	struct:memcached_stat_st
+bytes_written	memcached.h	81;"	m	struct:memcached_stat_st
+cached_errno	memcached.h	91;"	m	struct:memcached_st
+cached_errno	memcached_server.h	21;"	m	struct:memcached_server_st
+calc_average_item_size	memcached_analyze.c	40;"	f	file:
+calc_hit_ratio	memcached_analyze.c	48;"	f	file:
+calc_largest_consumption	memcached_analyze.c	3;"	f	file:
+calc_least_free_node	memcached_analyze.c	25;"	f	file:
+calc_oldest_node	memcached_analyze.c	14;"	f	file:
+call_free	memcached.h	106;"	m	struct:memcached_st
+call_malloc	memcached.h	107;"	m	struct:memcached_st
+call_realloc	memcached.h	108;"	m	struct:memcached_st
+cas	memcached.hh	157;"	f	class:Memcached
+cas	memcached/protocol_binary.h	131;"	m	struct:__anon7::__anon8
+cas	memcached/protocol_binary.h	150;"	m	struct:__anon9::__anon10
+cas	memcached_result.h	23;"	m	struct:memcached_result_st
+cas_by_key	memcached.hh	166;"	f	class:Memcached
+cmd_get	memcached.h	75;"	m	struct:memcached_stat_st
+cmd_set	memcached.h	76;"	m	struct:memcached_stat_st
+compare_servers	memcached_hosts.c	11;"	f	file:
+connect_timeout	memcached.h	96;"	m	struct:memcached_st
+connection_structures	memcached.h	73;"	m	struct:memcached_stat_st
+continuum	memcached.h	103;"	m	struct:memcached_st
+continuum_count	memcached.h	102;"	m	struct:memcached_st
+continuum_item_cmp	memcached_hosts.c	88;"	f	file:
+continuum_points_counter	memcached.h	114;"	m	struct:memcached_st
+count	md5.c	47;"	m	struct:__anon30	file:
+count	memcached_server.h	35;"	m	struct:memcached_server_st
+crc32tab	crc.c	9;"	v	file:
+curr_connections	memcached.h	71;"	m	struct:memcached_stat_st
+curr_items	memcached.h	68;"	m	struct:memcached_stat_st
+current_size	memcached_string.h	20;"	m	struct:memcached_string_st
+cursor_active	memcached_server.h	22;"	m	struct:memcached_server_st
+cursor_server	memcached.h	90;"	m	struct:memcached_st
+datatype	memcached/protocol_binary.h	127;"	m	struct:__anon7::__anon8
+datatype	memcached/protocol_binary.h	146;"	m	struct:__anon9::__anon10
+decrement	memcached.hh	83;"	f	class:Memcached
+delete_by_key	memcached.hh	184;"	f	class:Memcached
+delete_trigger	memcached.h	110;"	m	struct:memcached_st
+delta	memcached/protocol_binary.h	283;"	m	struct:__anon24::__anon25::__anon26
+dispatch_host	memcached_hash.c	111;"	f	file:
+distribution	memcached.h	100;"	m	struct:memcached_st
+end	memcached_string.h	19;"	m	struct:memcached_string_st
+evictions	memcached.h	79;"	m	struct:memcached_stat_st
+expiration	memcached/protocol_binary.h	225;"	m	struct:__anon18::__anon19::__anon20
+expiration	memcached/protocol_binary.h	246;"	m	struct:__anon21::__anon22::__anon23
+expiration	memcached/protocol_binary.h	285;"	m	struct:__anon24::__anon25::__anon26
+expiration	memcached_result.h	24;"	m	struct:memcached_result_st
+extlen	memcached/protocol_binary.h	126;"	m	struct:__anon7::__anon8
+extlen	memcached/protocol_binary.h	145;"	m	struct:__anon9::__anon10
+fd	memcached_server.h	20;"	m	struct:memcached_server_st
+fetch	memcached.hh	25;"	f	class:Memcached
+final	jenkins_hash.c	30;"	d	file:
+flags	memcached.h	92;"	m	struct:memcached_st
+flags	memcached/protocol_binary.h	193;"	m	struct:__anon15::__anon16::__anon17
+flags	memcached/protocol_binary.h	245;"	m	struct:__anon21::__anon22::__anon23
+flags	memcached_result.h	22;"	m	struct:memcached_result_st
+generate_hash	memcached_hash.c	96;"	f
+get	memcached.hh	33;"	f	class:Memcached
+get16bits	hsieh_hash.c	10;"	d	file:
+get16bits	hsieh_hash.c	12;"	d	file:
+get16bits	hsieh_hash.c	16;"	d	file:
+get_by_key	memcached.hh	42;"	f	class:Memcached
+get_com_code	memcached_storage.c	336;"	f	file:
+get_hits	memcached.h	77;"	m	struct:memcached_stat_st
+get_key_failure	memcached.h	109;"	m	struct:memcached_st
+get_misses	memcached.h	78;"	m	struct:memcached_stat_st
+hash	memcached.h	99;"	m	struct:memcached_st
+hash_continuum	memcached.h	113;"	m	struct:memcached_st
+hash_crc32	crc.c	77;"	f
+hashmask	jenkins_hash.c	17;"	d	file:
+hashsize	jenkins_hash.c	16;"	d	file:
+header	memcached/protocol_binary.h	160;"	m	struct:__anon11::__anon12
+header	memcached/protocol_binary.h	170;"	m	struct:__anon13::__anon14
+header	memcached/protocol_binary.h	191;"	m	struct:__anon15::__anon16
+header	memcached/protocol_binary.h	223;"	m	struct:__anon18::__anon19
+header	memcached/protocol_binary.h	243;"	m	struct:__anon21::__anon22
+header	memcached/protocol_binary.h	281;"	m	struct:__anon24::__anon25
+header	memcached/protocol_binary.h	299;"	m	struct:__anon27::__anon28
+hostname	memcached_server.h	18;"	m	struct:memcached_server_st
+hosts	memcached.h	88;"	m	struct:memcached_st
+hsieh_hash	hsieh_hash.c	20;"	f
+htonll	byteorder.c	27;"	f
+increment	memcached.hh	77;"	f	class:Memcached
+index	memcached.h	41;"	m	struct:memcached_continuum_item_st
+initial	memcached/protocol_binary.h	284;"	m	struct:__anon24::__anon25::__anon26
+internal_generate_hash	memcached_hash.c	183;"	f	file:
+internal_generate_md5	memcached_hash.c	201;"	f	file:
+io_bytes_sent	memcached_server.h	40;"	m	struct:memcached_server_st
+io_bytes_watermark	memcached.h	119;"	m	struct:memcached_st
+io_flush	memcached_io.c	266;"	f	file:
+io_msg_watermark	memcached.h	118;"	m	struct:memcached_st
+io_wait	memcached_io.c	17;"	f	file:
+is_allocated	memcached.h	87;"	m	struct:memcached_st
+is_allocated	memcached_result.h	17;"	m	struct:memcached_result_st
+is_allocated	memcached_server.h	17;"	m	struct:memcached_server_st
+is_allocated	memcached_string.h	18;"	m	struct:memcached_string_st
+jenkins_hash	jenkins_hash.c	57;"	f
+ketama_server_hash	memcached_hosts.c	77;"	f	file:
+key	memcached_result.h	19;"	m	struct:memcached_result_st
+key_length	memcached_result.h	20;"	m	struct:memcached_result_st
+keylen	memcached/protocol_binary.h	125;"	m	struct:__anon7::__anon8
+keylen	memcached/protocol_binary.h	144;"	m	struct:__anon9::__anon10
+least_free_server	memcached.h	52;"	m	struct:memcached_analysis_st
+least_remaining_bytes	memcached.h	49;"	m	struct:memcached_analysis_st
+likely	common.h	46;"	d
+likely	common.h	51;"	d
+limit_maxbytes	memcached.h	70;"	m	struct:memcached_stat_st
+limit_maxbytes	memcached_server.h	38;"	m	struct:memcached_server_st
+longest_uptime	memcached.h	51;"	m	struct:memcached_analysis_st
+magic	memcached/protocol_binary.h	123;"	m	struct:__anon7::__anon8
+magic	memcached/protocol_binary.h	142;"	m	struct:__anon9::__anon10
+major_version	memcached_server.h	32;"	m	struct:memcached_server_st
+md5_signature	md5.c	131;"	f
+memc	memcached.hh	11;"	m	class:Memcached
+memc_read_or_write	memcached_io.c	13;"	t	typeref:enum:__anon1	file:
+memcachd_key_test	memcached_key.c	3;"	f
+memcached_add	memcached_storage.c	174;"	f
+memcached_add_by_key	memcached_storage.c	261;"	f
+memcached_analysis_st	memcached.h	47;"	s
+memcached_analysis_st	memcached_types.h	18;"	t	typeref:struct:memcached_analysis_st
+memcached_analyze	memcached_analyze.c	62;"	f
+memcached_append	memcached_storage.c	217;"	f
+memcached_append_by_key	memcached_storage.c	307;"	f
+memcached_auto	memcached_auto.c	3;"	f	file:
+memcached_behavior	memcached_constants.h	101;"	t	typeref:enum:__anon33
+memcached_behavior_get	memcached_behavior.c	147;"	f
+memcached_behavior_set	memcached_behavior.c	21;"	f
+memcached_callback	memcached_constants.h	113;"	t	typeref:enum:__anon34
+memcached_callback_get	memcached_callback.c	102;"	f
+memcached_callback_set	memcached_callback.c	10;"	f
+memcached_cas	memcached_storage.c	230;"	f
+memcached_cas_by_key	memcached_storage.c	321;"	f
+memcached_cleanup_func	memcached_types.h	24;"	t
+memcached_clone	memcached.c	72;"	f
+memcached_clone_func	memcached_types.h	23;"	t
+memcached_connect	memcached_connect.c	305;"	f
+memcached_connection	memcached_constants.h	133;"	t	typeref:enum:__anon36
+memcached_continuum_item_st	memcached.h	40;"	s
+memcached_continuum_item_st	memcached_types.h	22;"	t	typeref:struct:memcached_continuum_item_st
+memcached_create	memcached.c	6;"	f
+memcached_decrement	memcached_auto.c	116;"	f
+memcached_delete	memcached_delete.c	3;"	f
+memcached_delete_by_key	memcached_delete.c	16;"	f
+memcached_do	memcached_do.c	3;"	f
+memcached_execute_function	memcached_types.h	28;"	t
+memcached_fetch	memcached_fetch.c	129;"	f
+memcached_fetch_execute	memcached_fetch_execute.c	3;"	f
+memcached_fetch_result	memcached_fetch.c	183;"	f
+memcached_flags	common.h	80;"	t	typeref:enum:__anon37
+memcached_flush	memcached_flush.c	8;"	f
+memcached_flush_binary	memcached_flush.c	50;"	f	file:
+memcached_flush_buffers	memcached_flush_buffers.c	4;"	f
+memcached_flush_textual	memcached_flush.c	21;"	f	file:
+memcached_free	memcached.c	38;"	f
+memcached_free_function	memcached_types.h	25;"	t
+memcached_generate_hash	memcached_hash.c	155;"	f
+memcached_generate_hash_value	memcached_hash.c	14;"	f
+memcached_get	memcached_get.c	7;"	f
+memcached_get_by_key	memcached_get.c	17;"	f
+memcached_hash	memcached_constants.h	126;"	t	typeref:enum:__anon35
+memcached_increment	memcached_auto.c	95;"	f
+memcached_io_close	memcached_io.c	235;"	f
+memcached_io_preread	memcached_io.c	66;"	f
+memcached_io_read	memcached_io.c	92;"	f
+memcached_io_readline	memcached_io.c	413;"	f
+memcached_io_reset	memcached_io.c	383;"	f
+memcached_io_write	memcached_io.c	182;"	f
+memcached_lib_version	memcached_version.c	3;"	f
+memcached_malloc_function	memcached_types.h	26;"	t
+memcached_mget	memcached_get.c	98;"	f
+memcached_mget_by_key	memcached_get.c	110;"	f
+memcached_prepend	memcached_storage.c	204;"	f
+memcached_prepend_by_key	memcached_storage.c	293;"	f
+memcached_purge	memcached_purge.c	5;"	f
+memcached_quit	memcached_quit.c	53;"	f
+memcached_quit_server	memcached_quit.c	12;"	f
+memcached_read_one_response	memcached_response.c	18;"	f
+memcached_realloc_function	memcached_types.h	27;"	t
+memcached_replace	memcached_storage.c	189;"	f
+memcached_replace_by_key	memcached_storage.c	277;"	f
+memcached_response	memcached_response.c	39;"	f
+memcached_result_cas	memcached_result.h	44;"	d
+memcached_result_create	memcached_result.c	9;"	f
+memcached_result_flags	memcached_result.h	43;"	d
+memcached_result_free	memcached_result.c	52;"	f
+memcached_result_key_length	memcached_result.h	34;"	d
+memcached_result_key_value	memcached_result.h	33;"	d
+memcached_result_length	memcached_response.c	168;"	f
+memcached_result_length	memcached_result.h	38;"	d
+memcached_result_reset	memcached_result.c	35;"	f
+memcached_result_set_expiration	memcached_result.h	47;"	d
+memcached_result_set_flags	memcached_result.h	46;"	d
+memcached_result_set_value	memcached_result.c	47;"	f
+memcached_result_st	memcached_result.h	16;"	s
+memcached_result_st	memcached_types.h	19;"	t	typeref:struct:memcached_result_st
+memcached_result_string_st	memcached_result.h	35;"	d
+memcached_result_value	memcached_response.c	162;"	f
+memcached_result_value	memcached_result.h	37;"	d
+memcached_return	memcached_constants.h	65;"	t	typeref:enum:__anon31
+memcached_safe_read	memcached_io.c	392;"	f
+memcached_send	memcached_storage.c	55;"	f	file:
+memcached_send_binary	memcached_storage.c	385;"	f	file:
+memcached_server_add	memcached_hosts.c	292;"	f
+memcached_server_add_udp	memcached_hosts.c	271;"	f
+memcached_server_add_udp_with_weight	memcached_hosts.c	278;"	f
+memcached_server_add_unix_socket	memcached_hosts.c	255;"	f
+memcached_server_add_unix_socket_with_weight	memcached_hosts.c	261;"	f
+memcached_server_add_with_weight	memcached_hosts.c	299;"	f
+memcached_server_by_key	memcached_server.c	109;"	f
+memcached_server_clone	memcached_server.c	72;"	f
+memcached_server_count	memcached_server.h	44;"	d
+memcached_server_create	memcached_server.c	6;"	f
+memcached_server_create_with	memcached_server.c	26;"	f
+memcached_server_cursor	memcached_server.c	84;"	f
+memcached_server_distribution	memcached_constants.h	72;"	t	typeref:enum:__anon32
+memcached_server_free	memcached_server.c	48;"	f
+memcached_server_function	memcached_types.h	29;"	t
+memcached_server_list	memcached_server.h	47;"	d
+memcached_server_list_append	memcached_hosts.c	366;"	f
+memcached_server_list_append_with_weight	memcached_hosts.c	373;"	f
+memcached_server_list_count	memcached_hosts.c	411;"	f
+memcached_server_list_free	memcached_hosts.c	419;"	f
+memcached_server_name	memcached_server.h	45;"	d
+memcached_server_port	memcached_server.h	46;"	d
+memcached_server_push	memcached_hosts.c	217;"	f
+memcached_server_remove	memcached_hosts.c	339;"	f
+memcached_server_response_count	memcached_server.h	48;"	d
+memcached_server_response_decrement	common.h	98;"	d
+memcached_server_response_increment	common.h	97;"	d
+memcached_server_response_reset	common.h	99;"	d
+memcached_server_st	memcached_server.h	16;"	s
+memcached_server_st	memcached_types.h	21;"	t	typeref:struct:memcached_server_st
+memcached_servers_parse	memcached_parse.c	11;"	f
+memcached_set	memcached_storage.c	160;"	f
+memcached_set_by_key	memcached_storage.c	244;"	f
+memcached_st	memcached.h	85;"	s
+memcached_st	memcached_types.h	16;"	t	typeref:struct:memcached_st
+memcached_stat	memcached_stats.c	337;"	f
+memcached_stat_free	memcached_stats.c	422;"	f
+memcached_stat_get_keys	memcached_stats.c	397;"	f
+memcached_stat_get_value	memcached_stats.c	145;"	f
+memcached_stat_keys	memcached_stats.c	6;"	v	file:
+memcached_stat_servername	memcached_stats.c	373;"	f
+memcached_stat_st	memcached.h	58;"	s
+memcached_stat_st	memcached_types.h	17;"	t	typeref:struct:memcached_stat_st
+memcached_storage_action	memcached_storage.c	19;"	t	typeref:enum:__anon2	file:
+memcached_strerror	memcached_strerror.c	3;"	f
+memcached_string_append	memcached_string.c	92;"	f
+memcached_string_append_character	memcached_string.c	76;"	f
+memcached_string_c_copy	memcached_string.c	112;"	f
+memcached_string_check	memcached_string.c	3;"	f
+memcached_string_create	memcached_string.c	38;"	f
+memcached_string_free	memcached_string.c	140;"	f
+memcached_string_length	memcached_string.h	25;"	d
+memcached_string_reset	memcached_string.c	133;"	f
+memcached_string_set_length	memcached_string.h	26;"	d
+memcached_string_size	memcached_string.h	27;"	d
+memcached_string_st	memcached_string.h	16;"	s
+memcached_string_st	memcached_types.h	20;"	t	typeref:struct:memcached_string_st
+memcached_string_value	memcached_string.h	28;"	d
+memcached_trigger_delete_key	memcached_types.h	33;"	t
+memcached_trigger_key	memcached_types.h	30;"	t
+memcached_validate_key_length	common.h	122;"	f
+memcached_verbosity	memcached_verbosity.c	3;"	f
+memcached_version	memcached_version.c	11;"	f
+memcached_version_binary	memcached_version.c	62;"	f	file:
+memcached_version_textual	memcached_version.c	19;"	f	file:
+message	memcached/protocol_binary.h	161;"	m	union:__anon11	typeref:struct:__anon11::__anon12
+message	memcached/protocol_binary.h	171;"	m	union:__anon13	typeref:struct:__anon13::__anon14
+message	memcached/protocol_binary.h	195;"	m	union:__anon15	typeref:struct:__anon15::__anon16
+message	memcached/protocol_binary.h	227;"	m	union:__anon18	typeref:struct:__anon18::__anon19
+message	memcached/protocol_binary.h	248;"	m	union:__anon21	typeref:struct:__anon21::__anon22
+message	memcached/protocol_binary.h	287;"	m	union:__anon24	typeref:struct:__anon24::__anon25
+message	memcached/protocol_binary.h	303;"	m	union:__anon27	typeref:struct:__anon27::__anon28
+mget	memcached.hh	53;"	f	class:Memcached
+micro_version	memcached_server.h	34;"	m	struct:memcached_server_st
+minor_version	memcached_server.h	33;"	m	struct:memcached_server_st
+mix	jenkins_hash.c	20;"	d	file:
+most_consumed_server	memcached.h	53;"	m	struct:memcached_analysis_st
+most_used_bytes	memcached.h	48;"	m	struct:memcached_analysis_st
+murmur_hash	murmur_hash.c	20;"	f
+network_connect	memcached_connect.c	181;"	f	file:
+next_retry	memcached_server.h	36;"	m	struct:memcached_server_st
+ntohll	byteorder.c	23;"	f
+number_of_hosts	memcached.h	89;"	m	struct:memcached_st
+oldest_server	memcached.h	54;"	m	struct:memcached_analysis_st
+on_cleanup	memcached.h	105;"	m	struct:memcached_st
+on_clone	memcached.h	104;"	m	struct:memcached_st
+opaque	memcached/protocol_binary.h	130;"	m	struct:__anon7::__anon8
+opaque	memcached/protocol_binary.h	149;"	m	struct:__anon9::__anon10
+opcode	memcached/protocol_binary.h	124;"	m	struct:__anon7::__anon8
+opcode	memcached/protocol_binary.h	143;"	m	struct:__anon9::__anon10
+pid	memcached.h	59;"	m	struct:memcached_stat_st
+pointer_size	memcached.h	63;"	m	struct:memcached_stat_st
+poll_timeout	memcached.h	95;"	m	struct:memcached_st
+pool_hit_ratio	memcached.h	55;"	m	struct:memcached_analysis_st
+port	memcached_server.h	19;"	m	struct:memcached_server_st
+prefix_key	memcached.h	111;"	m	struct:memcached_st
+prefix_key_length	memcached.h	112;"	m	struct:memcached_st
+prepend	memcached.hh	121;"	f	class:Memcached
+prepend_by_key	memcached.hh	129;"	f	class:Memcached
+protocol_binary_command	memcached/protocol_binary.h	107;"	t	typeref:enum:__anon5
+protocol_binary_datatypes	memcached/protocol_binary.h	115;"	t	typeref:enum:__anon6
+protocol_binary_magic	memcached/protocol_binary.h	58;"	t	typeref:enum:__anon3
+protocol_binary_request_add	memcached/protocol_binary.h	251;"	t
+protocol_binary_request_append	memcached/protocol_binary.h	324;"	t
+protocol_binary_request_decr	memcached/protocol_binary.h	290;"	t
+protocol_binary_request_delete	memcached/protocol_binary.h	207;"	t
+protocol_binary_request_flush	memcached/protocol_binary.h	229;"	t	typeref:union:__anon18
+protocol_binary_request_get	memcached/protocol_binary.h	179;"	t
+protocol_binary_request_getk	memcached/protocol_binary.h	181;"	t
+protocol_binary_request_getkq	memcached/protocol_binary.h	182;"	t
+protocol_binary_request_getq	memcached/protocol_binary.h	180;"	t
+protocol_binary_request_header	memcached/protocol_binary.h	134;"	t	typeref:union:__anon7
+protocol_binary_request_incr	memcached/protocol_binary.h	289;"	t	typeref:union:__anon24
+protocol_binary_request_no_extras	memcached/protocol_binary.h	163;"	t	typeref:union:__anon11
+protocol_binary_request_noop	memcached/protocol_binary.h	266;"	t
+protocol_binary_request_prepend	memcached/protocol_binary.h	325;"	t
+protocol_binary_request_quit	memcached/protocol_binary.h	312;"	t
+protocol_binary_request_replace	memcached/protocol_binary.h	252;"	t
+protocol_binary_request_set	memcached/protocol_binary.h	250;"	t	typeref:union:__anon21
+protocol_binary_request_stats	memcached/protocol_binary.h	351;"	t
+protocol_binary_request_version	memcached/protocol_binary.h	338;"	t
+protocol_binary_response_add	memcached/protocol_binary.h	259;"	t
+protocol_binary_response_append	memcached/protocol_binary.h	331;"	t
+protocol_binary_response_decr	memcached/protocol_binary.h	306;"	t
+protocol_binary_response_delete	memcached/protocol_binary.h	213;"	t
+protocol_binary_response_flush	memcached/protocol_binary.h	235;"	t
+protocol_binary_response_get	memcached/protocol_binary.h	197;"	t	typeref:union:__anon15
+protocol_binary_response_getk	memcached/protocol_binary.h	200;"	t
+protocol_binary_response_getkq	memcached/protocol_binary.h	201;"	t
+protocol_binary_response_getq	memcached/protocol_binary.h	199;"	t
+protocol_binary_response_header	memcached/protocol_binary.h	153;"	t	typeref:union:__anon9
+protocol_binary_response_incr	memcached/protocol_binary.h	305;"	t	typeref:union:__anon27
+protocol_binary_response_no_extras	memcached/protocol_binary.h	173;"	t	typeref:union:__anon13
+protocol_binary_response_noop	memcached/protocol_binary.h	272;"	t
+protocol_binary_response_prepend	memcached/protocol_binary.h	332;"	t
+protocol_binary_response_quit	memcached/protocol_binary.h	318;"	t
+protocol_binary_response_replace	memcached/protocol_binary.h	260;"	t
+protocol_binary_response_set	memcached/protocol_binary.h	258;"	t
+protocol_binary_response_stats	memcached/protocol_binary.h	357;"	t
+protocol_binary_response_status	memcached/protocol_binary.h	73;"	t	typeref:enum:__anon4
+protocol_binary_response_version	memcached/protocol_binary.h	344;"	t
+purging	memcached.h	86;"	m	struct:memcached_st
+rcv_timeout	memcached.h	116;"	m	struct:memcached_st
+read_buffer	memcached_server.h	25;"	m	struct:memcached_server_st
+read_buffer_length	memcached_server.h	27;"	m	struct:memcached_server_st
+read_data_length	memcached_server.h	26;"	m	struct:memcached_server_st
+read_ptr	memcached_server.h	28;"	m	struct:memcached_server_st
+recv_size	memcached.h	94;"	m	struct:memcached_st
+remove	memcached.hh	179;"	f	class:Memcached
+replace	memcached.hh	105;"	f	class:Memcached
+replace_by_key	memcached.hh	112;"	f	class:Memcached
+request	memcached/protocol_binary.h	132;"	m	union:__anon7	typeref:struct:__anon7::__anon8
+reserved	memcached/protocol_binary.h	128;"	m	struct:__anon7::__anon8
+response	memcached/protocol_binary.h	151;"	m	union:__anon9	typeref:struct:__anon9::__anon10
+result	memcached.h	98;"	m	struct:memcached_st
+result	memcached.hh	12;"	m	class:Memcached
+retry_timeout	memcached.h	97;"	m	struct:memcached_st
+root	memcached_result.h	18;"	m	struct:memcached_result_st
+root	memcached_server.h	37;"	m	struct:memcached_server_st
+root	memcached_string.h	17;"	m	struct:memcached_string_st
+rot	jenkins_hash.c	18;"	d	file:
+run_distribution	memcached_hosts.c	37;"	f
+rusage_system_microseconds	memcached.h	67;"	m	struct:memcached_stat_st
+rusage_system_seconds	memcached.h	66;"	m	struct:memcached_stat_st
+rusage_user_microseconds	memcached.h	65;"	m	struct:memcached_stat_st
+rusage_user_seconds	memcached.h	64;"	m	struct:memcached_stat_st
+send_size	memcached.h	93;"	m	struct:memcached_st
+server_add	memcached_hosts.c	313;"	f	file:
+server_failure_counter	memcached_server.h	39;"	m	struct:memcached_server_st
+server_failure_limit	memcached.h	117;"	m	struct:memcached_st
+server_list_free	memcached_hosts.c	57;"	f
+set	memcached.hh	60;"	f	class:Memcached
+set_behavior_flag	memcached_behavior.c	13;"	f	file:
+set_by_key	memcached.hh	67;"	f	class:Memcached
+set_data	memcached_stats.c	33;"	f	file:
+set_hostinfo	memcached_connect.c	6;"	f	file:
+set_socket_options	memcached_connect.c	47;"	f	file:
+snd_timeout	memcached.h	115;"	m	struct:memcached_st
+sockaddr_inited	memcached_server.h	29;"	m	struct:memcached_server_st
+sort_hosts	memcached_hosts.c	27;"	f	file:
+state	md5.c	46;"	m	struct:__anon30	file:
+status	memcached/protocol_binary.h	147;"	m	struct:__anon9::__anon10
+storage_op_string	memcached_storage.c	22;"	f	file:
+string	memcached_string.h	22;"	m	struct:memcached_string_st
+swap64	byteorder.c	4;"	f	file:
+textual_read_one_response	memcached_response.c	70;"	f	file:
+threads	memcached.h	61;"	m	struct:memcached_stat_st
+time	memcached.h	62;"	m	struct:memcached_stat_st
+total_connections	memcached.h	72;"	m	struct:memcached_stat_st
+total_items	memcached.h	69;"	m	struct:memcached_stat_st
+type	memcached_server.h	31;"	m	struct:memcached_server_st
+unix_socket_connect	memcached_connect.c	138;"	f	file:
+unlikely	common.h	47;"	d
+unlikely	common.h	52;"	d
+update_continuum	memcached_hosts.c	103;"	f
+uptime	memcached.h	60;"	m	struct:memcached_stat_st
+user_data	memcached.h	101;"	m	struct:memcached_st
+value	memcached.h	42;"	m	struct:memcached_continuum_item_st
+value	memcached/protocol_binary.h	301;"	m	struct:__anon27::__anon28::__anon29
+value	memcached_result.h	21;"	m	struct:memcached_result_st
+value_fetch	memcached_fetch.c	4;"	f
+version	memcached.h	82;"	m	struct:memcached_stat_st
+weight	memcached_server.h	41;"	m	struct:memcached_server_st
+write_buffer	memcached_server.h	23;"	m	struct:memcached_server_st
+write_buffer_offset	memcached_server.h	24;"	m	struct:memcached_server_st
+~Memcached	memcached.hh	189;"	f	class:Memcached
